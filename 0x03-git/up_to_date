@@ -1,0 +1,8 @@
+step1  git pull https://github.com/teddy004/alx-pre_course.git
+step2  cd alx-zero_day/0x01-git
+step3  touch up_to_date
+step4  open . "open up_to_date file with note pad text editer and edit it"
+step5  git add up_to_date
+step6  git commit -m "How to be up to date in git"
+step7  git status 
+step8  git push origin master
